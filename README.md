@@ -1,8 +1,8 @@
 Hi there! I am Tasnim 👋
 
-[![LinkedIn](https://img.shields.io/badge/Tasnim%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/azad-tasnim/)](https://www.linkedin.com/in/whitelisab/)
-[![GitHub](https://img.shields.io/badge/tazad09%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/tazad09)](https://github.com/whitelisab)
-[![Gmail](https://img.shields.io/badge/Tasnim%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:tasnimazad17@gmail.com)](mailto:whitelisab@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Tasnim%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/azad-tasnim/)](https://www.linkedin.com/in/azad-tasnim/)
+[![GitHub](https://img.shields.io/badge/tazad09%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/tazad09)](https://github.com/tazad09)
+[![Gmail](https://img.shields.io/badge/Tasnim%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:tasnimazad17@gmail.com)](mailto:tasnimazad17@gmail.com)
 
 
 - :round_pushpin: Based in NYC, NY
