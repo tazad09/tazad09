@@ -1,7 +1,7 @@
 Hi there! I am Tasnim 👋
 
 [![LinkedIn](https://img.shields.io/badge/TasnimAzad%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/azad-tasnim/)](https://www.linkedin.com/in/whitelisab/)
-[![GitHub](https://img.shields.io/badge/whitelisab%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/whitelisab)](https://github.com/whitelisab)
+[![GitHub](https://img.shields.io/badge/tazad09%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/tazad09)](https://github.com/whitelisab)
 [![Gmail](https://img.shields.io/badge/whitelisab%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:whitelisab@gmail.com)](mailto:whitelisab@gmail.com)
 
 
