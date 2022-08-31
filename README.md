@@ -1,13 +1,11 @@
 Hi there! I am Tasnim 👋
 
-[![LinkedIn](https://img.shields.io/badge/tazad09%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/azad-tasnim/)](https://www.linkedin.com/in/whitelisab/)
+[![LinkedIn](https://img.shields.io/badge/Tasnim Azad%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/azad-tasnim/)](https://www.linkedin.com/in/whitelisab/)
 [![GitHub](https://img.shields.io/badge/whitelisab%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/whitelisab)](https://github.com/whitelisab)
-[![Salesforce](https://img.shields.io/badge/whitelisab%20-%2300A1E0.svg?&style=flat-square&logo=salesforce&logoColor=white&link=https://trailblazer.me/id/whitelisab)](https://trailblazer.me/id/whitelisab)
 [![Gmail](https://img.shields.io/badge/whitelisab%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:whitelisab@gmail.com)](mailto:whitelisab@gmail.com)
-[![Twitter](https://img.shields.io/badge/lmbel%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lmbel/)](https://twitter.com/lmbel/)
 
-- :office: Employed as a Software Engineer at [TaskRay](https://taskray.com/)
-- :round_pushpin: Based in Denver, CO
+
+- :round_pushpin: Based in NYC, NY
 - :smile: Pronouns: she/her/hers
 
 ### Languages & Tools
