@@ -21,7 +21,7 @@ Hi there! I am Tasnim 👋
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-![Redux](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=violet)
+![Redux](https://img.shields.io/badge/Redux-%2300f.svg?&style=flat-square&logo=redux&logoColor=pink)
 
 
 
