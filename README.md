@@ -6,7 +6,6 @@ Hi there! I am Tasnim 👋
 
 
 - :round_pushpin: Based in NYC, NY
-- :smile: Pronouns: she/her/hers
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
