@@ -5,7 +5,7 @@ Hi there! I am Tasnim 👋
 [![Gmail](https://img.shields.io/badge/Tasnim%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:tasnimazad17@gmail.com)](mailto:tasnimazad17@gmail.com)
 
 
-- :round_pushpin: Based in NYC, NY
+- :round_pushpin: Based in NYC, 
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
